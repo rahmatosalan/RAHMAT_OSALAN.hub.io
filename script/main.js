@@ -7,7 +7,7 @@ window.addEventListener('load', () => {
     showCancelButton: true,
     confirmButtonColor: '#3085d6',
     cancelButtonColor: '#d33',
-    confirmButtonText: 'Iyalah,Masak Tidak',
+    confirmButtonText: 'Iyalah',
     cancelButtonText: 'Tidak',
   }).then((result) => {
     if (result.isConfirmed) {
